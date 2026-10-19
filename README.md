@@ -1,11 +1,9 @@
 # KREAM Benefit Guide
 
-중앙 정렬형 KREAM 친구초대 혜택 비공식 가이드.
+배포 주소: https://kream-benefit-guide.vercel.app/
 
-## 배포
-GitHub 저장소에 파일을 업로드하고 Vercel에서 Import Project → Framework Preset: Other → Deploy를 선택하세요.
+정적 HTML 프로젝트입니다. GitHub 루트에 파일을 업로드하면 Vercel(Other preset)에서 배포할 수 있습니다.
 
-## 배포 후
-- Vercel 배포 URL 확정 후 canonical, og:url, sitemap.xml 추가
-- 네이버 서치어드바이저 및 구글 서치콘솔 소유권 인증
-- 공식 이벤트 조건과 혜택 금액 주기적 확인
+네이버 서치어드바이저에서 사이트 소유권 확인 후 사이트맵 URL `https://kream-benefit-guide.vercel.app/sitemap.xml` 을 제출하세요.
+
+이벤트 혜택과 조건은 공식 공지에 따라 업데이트해야 합니다.
